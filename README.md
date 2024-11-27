@@ -25,7 +25,7 @@ El objetivo principal es construir un modelo que prediga con la mayor precisión
 - **Fundamentación**: Explicación clara de los pasos y transformaciones realizadas.
 - **Facilidad de Producción**: El modelo debe ser fácilmente adaptable a un entorno de producción.
 
-## Recomendaciones
+###
 
-Recuerde aplicar técnicas como validación cruzada y seguir buenas prácticas para evitar errores de sobreajuste. Consulte la documentación de Scikit-learn para evitar los errores más comunes en el desarrollo de modelos de clasificación.
-"""
+* Tecnologías Usadas: Python,Scikit-Learn, 
+* Librerias de visualizacion: Matplotlib, Seaborn, Pandas
